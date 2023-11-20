@@ -1,3 +1,4 @@
-/localproc/docs/build
-/localproc/.venv
 /looklook/.venv/
+/looklook/build
+/_localproc/.venv
+/_localproc/docs/build

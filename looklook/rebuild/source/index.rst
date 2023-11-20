@@ -7,8 +7,8 @@
    :maxdepth: 2
    :caption: Contents:
 
-   looks_/looks
-
+   lives
+   techs
 
 Indices and tables
 ==================
